@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Felipe\\Documents\\Projetos\\SecureKey\\SecureKey.csproj": {}
+    "C:\\Users\\Felipe\\Documents\\Projetos\\SecureKey\\SecureKey.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Felipe\\Documents\\Projetos\\SecureKey\\SecureKey.csproj": {
+    "C:\\Users\\Felipe\\Documents\\Projetos\\SecureKey\\SecureKey.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Felipe\\Documents\\Projetos\\SecureKey\\SecureKey.csproj",
+        "projectUniqueName": "C:\\Users\\Felipe\\Documents\\Projetos\\SecureKey\\SecureKey.csproj",
         "projectName": "SecureKey",
-        "projectPath": "c:\\Users\\Felipe\\Documents\\Projetos\\SecureKey\\SecureKey.csproj",
+        "projectPath": "C:\\Users\\Felipe\\Documents\\Projetos\\SecureKey\\SecureKey.csproj",
         "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Felipe\\Documents\\Projetos\\SecureKey\\obj\\",
+        "outputPath": "C:\\Users\\Felipe\\Documents\\Projetos\\SecureKey\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config"

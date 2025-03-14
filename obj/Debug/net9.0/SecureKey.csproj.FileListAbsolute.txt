@@ -95,3 +95,4 @@ c:\Users\Felipe\Documents\Projetos\SecureKey\obj\Debug\net9.0\refint\SecureKey.d
 c:\Users\Felipe\Documents\Projetos\SecureKey\obj\Debug\net9.0\SecureKey.pdb
 c:\Users\Felipe\Documents\Projetos\SecureKey\obj\Debug\net9.0\SecureKey.genruntimeconfig.cache
 c:\Users\Felipe\Documents\Projetos\SecureKey\obj\Debug\net9.0\ref\SecureKey.dll
+C:\Users\Felipe\Documents\Projetos\SecureKey\obj\Debug\net9.0\SecureKey.sourcelink.json
