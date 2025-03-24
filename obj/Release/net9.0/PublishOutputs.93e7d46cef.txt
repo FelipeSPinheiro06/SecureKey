@@ -1,0 +1,8 @@
+C:\Users\Felipe\Documents\Projetos\SecureKey\bin\Release\net9.0\publish\SecureKey.exe
+C:\Users\Felipe\Documents\Projetos\SecureKey\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\Felipe\Documents\Projetos\SecureKey\bin\Release\net9.0\publish\appsettings.json
+C:\Users\Felipe\Documents\Projetos\SecureKey\bin\Release\net9.0\publish\SecureKey.dll
+C:\Users\Felipe\Documents\Projetos\SecureKey\bin\Release\net9.0\publish\SecureKey.deps.json
+C:\Users\Felipe\Documents\Projetos\SecureKey\bin\Release\net9.0\publish\SecureKey.runtimeconfig.json
+C:\Users\Felipe\Documents\Projetos\SecureKey\bin\Release\net9.0\publish\SecureKey.pdb
+C:\Users\Felipe\Documents\Projetos\SecureKey\bin\Release\net9.0\publish\PasswordGenerator.dll
