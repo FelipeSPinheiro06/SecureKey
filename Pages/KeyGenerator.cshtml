@@ -1,0 +1,17 @@
+﻿@page
+@model KeyGeneratorModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="container mt-5 w-75 h-75 d-flex flex-column justify-content-center align-items-center">
+    <h1>Gere sua senha!</h1>
+    <form method="post">
+        <div class="form-group mt-3">
+            <input type="text" id="passwordField" class="form-control" readonly value="@Model.SenhaGerada"/>  
+        </div>
+        <div class="mt-4 ms-5">
+            <button class="btn btn-primary" type="submit" formaction="/KeyGenerator?handler=GerarSenha">Gerar Senha</button>
+        </div>
+    </form>
+</div>

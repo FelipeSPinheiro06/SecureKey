@@ -24,12 +24,12 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Felipe/Documents/Projetos/SecureKey/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+[C:/Users/Felipe/Documents/Projetos/SecureKey/Pages/KeyGenerator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS2V5R2VuZXJhdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Felipe/Documents/Projetos/SecureKey/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+[C:/Users/Felipe/Documents/Projetos/SecureKey/Pages/KeyValidator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS2V5VmFsaWRhdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Felipe/Documents/Projetos/SecureKey/Pages/Shared/_ValidationScriptsPartial.cshtml]
