@@ -23,6 +23,27 @@ body {
   color: #ffffff; /* Texto claro */
 }
 
+/* Faz o body ocupar toda a altura da página */
+html, body {
+  height: 100%; /* Garante altura completa */
+  margin: 0; /* Remove margens extras */
+  display: flex;
+  flex-direction: column; /* Organiza os elementos em coluna */
+}
+
+/* Container principal para alinhar conteúdo */
+.container {
+  flex: 1; /* Permite que o conteúdo principal cresça e ocupe o espaço disponível */
+}
+
+/* Estilização do footer */
+footer {
+  background-color: #f8f9fa; /* Cor do fundo do footer */
+  padding: 15px; /* Espaçamento interno */
+  text-align: center; /* Centraliza texto */
+  margin-top: auto; /* Move o footer para o fim */
+}
+
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
   color: var(--bs-secondary-color);
   text-align: end;
