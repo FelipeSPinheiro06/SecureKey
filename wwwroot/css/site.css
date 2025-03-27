@@ -40,7 +40,6 @@ html, body {
 footer {
   background-color: #f8f9fa; /* Cor do fundo do footer */
   padding: 15px; /* Espaçamento interno */
-  text-align: center; /* Centraliza texto */
   margin-top: auto; /* Move o footer para o fim */
 }
 
